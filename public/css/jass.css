@@ -1,0 +1,18 @@
+/* FILEPATH: /Users/hanareiko/Documents/bootcamp/do work/test ub/public/css/jass.css */
+
+/* Set background color */
+body {
+    background-color: #000;
+}
+
+/* Style the JASS text */
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10rem;
+    color: #fff;
+    text-shadow: 2px 2px #000;
+    letter-spacing: 0.5rem;
+    margin-top: 5rem;
+    text-align: center;
+    text-transform: uppercase;
+}
